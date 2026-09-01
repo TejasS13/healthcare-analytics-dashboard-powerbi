@@ -44,6 +44,55 @@ Analysis includes:
 - Patient Distribution by Blood Group
 - Average Satisfaction by Department
 
+## 📊 Dataset
+
+The dashboard is built using a healthcare dataset containing patient, admission, financial, demographic, and satisfaction-related information.
+
+The dataset supports analysis across areas such as:
+
+- Patient information
+- Department
+- Admission type
+- Patient outcomes
+- Room type
+- Insurance provider
+- Revenue
+- Length of stay
+- Gender
+- Blood group
+- City
+- Patient satisfaction
+
+> Note: The dataset is used for analytical and portfolio purposes.
+
+## 🔄 Project Workflow
+
+The dashboard development workflow follows these main steps:
+
+1. Data Preparation
+2. Data Modeling in Power BI
+3. KPI and Measure Development
+4. Interactive Visualization Development
+5. Dashboard Design
+6. Financial, Demographic, and Operational Analysis
+7. Interactive Dashboard Exploration
+
+### Workflow
+
+Healthcare Data  
+↓  
+Data Preparation  
+↓  
+Power BI Data Model  
+↓  
+KPI & Measures  
+↓  
+Visualizations  
+↓  
+Interactive Dashboard  
+↓  
+Healthcare Insights
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
@@ -51,6 +100,7 @@ Analysis includes:
 - Data Visualization
 - Business Intelligence
 - Interactive Dashboard Development
+- DAX
 
 ## 📈 Key Features
 
@@ -63,6 +113,19 @@ Analysis includes:
 - Demographic analysis
 - Healthcare performance analysis
 - Interactive data visualizations
+
+## 💡 Key Insights
+
+The dashboard enables analysis of the following healthcare patterns:
+
+- Compare patient volume across different departments.
+- Monitor revenue trends over time.
+- Analyze patient outcomes across the healthcare dataset.
+- Compare revenue contribution across room types and insurance providers.
+- Evaluate department-level patient volume and revenue.
+- Understand patient demographic distribution across cities, genders, and blood groups.
+- Compare average patient satisfaction across departments.
+- Use interactive filters to explore healthcare metrics from different perspectives.
 
 ## 🎯 Project Objective
 
@@ -90,6 +153,14 @@ The objective of this project was to transform healthcare data into an interacti
 ### 3. Demographics
 
 ![Healthcare Dashboard Demographics](03-healthcare-dashboard-demographics.png)
+
+## ▶️ How to Use
+
+1. Download `Healthcare_Dashboard.pbix` from this repository.
+2. Open the file using Microsoft Power BI Desktop.
+3. Navigate through the Overview, Financial, and Demographics pages.
+4. Use the available slicers and interactive visuals to explore the healthcare data.
+5. Interact with the dashboard to analyze patient, financial, demographic, and satisfaction metrics.
 
 ## 👤 Author
 
